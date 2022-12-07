@@ -1,7 +1,7 @@
 # hstpa_sales
 geography of sales pre- and post-hstpa
 
-Run app in RSudio by running:
+## Run app in RSudio by running:
   
   library(shiny)
   
